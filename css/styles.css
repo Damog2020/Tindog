@@ -92,16 +92,6 @@ p {
   right: 30%;
 }
 
-@media (max-width:991px){
-  .title-image {
-    width: 35%;
-    transform: rotate(0);
-    position: static;
-    right: 30%;
-    margin-top: 20px;
-  }
-}
-
 /* Features Section */
 
 #features {
